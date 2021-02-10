@@ -1,0 +1,12 @@
+
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
+alter table il.t_conn_mhold add column network_pairs bigint;
